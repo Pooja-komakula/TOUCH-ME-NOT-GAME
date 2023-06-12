@@ -1,4 +1,4 @@
-## TOUCH ME NOT  -------------------------------
+## TOUCH ME NOT 
 
 Big problem! The holidays are almost here but people keep trying to steal your Gifts. It's up to you to see how long
 you can defend your precious gift.
