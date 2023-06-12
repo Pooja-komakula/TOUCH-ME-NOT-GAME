@@ -1,7 +1,6 @@
 ## TOUCH ME NOT 
 
-Big problem! The holidays are almost here but people keep trying to steal your Gifts. It's up to you to see how long
-you can defend your precious gift.
+This is an enjoyable and entertaining Game developed using Python and Pygame,designed specifically for beginners with limited knowledge of programming.The game showcases the use of these technologies to create a captivating and interactive experience.
 
 ## How to Play
 
